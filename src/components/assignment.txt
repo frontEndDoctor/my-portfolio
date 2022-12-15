@@ -1,0 +1,2 @@
+Assignment
+Insert some UI in the Home.js and About.js respectively
